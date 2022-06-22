@@ -10,7 +10,9 @@ Para usar el codigo en un ordenador es necesario tener instalados todas las bibl
 En este trabajo se han ido creando distintos tipos de códigos para finalidades distintas, dentro de la carpeta de Test modelos
 
 1º Usando OpenCv inicialmente para comprobar que el modelo entrenado funciona correctamente, donde se podía activar en tiempo real la cámara de un ordenador o introducir videos y imagenes, obteniendo por pantalla el resultado de la matrícula detectada.
+
 2º También hay un código sin terminar para el auto etiquetado y crear labels de las imagenes, faltaria poder comparar las imagenes etiquetadas por el modelo con los XML de las matrículas.
+
 3º También hay distintas pruebas de los distintos modelos entrenados
 
 Para su correcto funcionamiento es necesario tener instalado YOLO v5.
